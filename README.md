@@ -18,15 +18,20 @@
 - OOPS Concept => Inheritance , Exception handling ,Ecapsulation and Data Hiding etc..... 
 - Data Structure => Graphs & its Algorithms , Custom PriorityQueue.
 ## ScreenShots
+- Display Metro Map
+
 ![App ScreenShots](https://github.com/MONISH-TYAGI/Delhi-Transport-Guide-DTG-/blob/main/Photos/Map.jpeg)
-<br/>
-<br/>
+
+- Metro Route
+
 ![App ScreenShots](https://github.com/MONISH-TYAGI/Delhi-Transport-Guide-DTG-/blob/main/Photos/Metro.jpeg)
-<br/>
-<br/>
+
+- Bus Route
+
 ![App ScreenShots](https://github.com/MONISH-TYAGI/Delhi-Transport-Guide-DTG-/blob/main/Photos/Bus.jpeg)
-<br/>
-<br/>
+
+- Info
+
 ![App ScreenShots](https://github.com/MONISH-TYAGI/Delhi-Transport-Guide-DTG-/blob/main/Photos/Info.jpeg)
 
 ### Many more images in photos folder of Repository................................
